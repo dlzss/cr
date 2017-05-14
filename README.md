@@ -2,10 +2,8 @@
 
 0. ```cd [project dir]```
 
-1. ```git add *```
+1. ```git commit -am "fire coming"```
 
-2. ```git commit -m "fire coming"```
+2. ```git push ...```
 
-3. ```git push ...```
-
-4. 逃生
+3. 逃生
