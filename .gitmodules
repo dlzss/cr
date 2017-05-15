@@ -1,0 +1,3 @@
+[submodule "zhugegy_mini_projects"]
+	path = zhugegy_mini_projects
+	url = git@github.com:zhugegy/mini-projects.git
